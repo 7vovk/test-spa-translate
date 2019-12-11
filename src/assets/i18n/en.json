@@ -1,0 +1,6 @@
+{
+  "TEST": {
+    "TEST_TITLE": "Hello Angular with ngx-translate!",
+    "TEST_SELECT": "Change language"
+  }
+}
